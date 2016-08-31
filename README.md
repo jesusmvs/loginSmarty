@@ -1,0 +1,1 @@
+Pequenio sistema de login de usuario utilizado para probar el uso de smarty y PHP OO
